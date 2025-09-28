@@ -1,4 +1,11 @@
-# Hi there 👋 I'm **Abdelrahman Korayem**
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Abdelrahman+Korayem+%F0%9F%91%8B;Frontend+%26+Cross-Platform+Developer;Passionate+about+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+ <em>Frontend & Cross-Platform Developer | Information Systems Graduate 🎓</em><br> <em>Crafting modern, elegant, and responsive web & mobile applications with passion 💙</em>
+
+</p>
 
 🎓 **Information Systems Graduate**
 🎯 **Front-End Developer | Mobile Developer**

@@ -2,12 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Abdelrahman+Korayem+%F0%9F%91%8B;Frontend+%26+Cross-Platform+Developer;Passionate+about+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
 </h1>
 
-<p align="center">
- <em>Frontend & Cross-Platform Developer | Information Systems Graduate 🎓</em><br> <em>Crafting modern, elegant, and responsive web & mobile applications with passion 💙</em>
+
 
 </p>
 
-🎓 **Information Systems Graduate**
+🎓 **Management Information Systems (MIS) Graduate**
 🎯 **Front-End Developer | Mobile Developer**
 💻 Passionate about crafting modern, responsive, and user-friendly web & mobile apps.
 
@@ -36,7 +35,8 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abdelrahman-korayem/)
-📧 **[abdelrahman@example.com](mailto:https://www.linkedin.com/in/abdelrahman-korayem/)**
+<br>
+📧 **[koraim23@gmail.com](mailto:https://www.linkedin.com/in/abdelrahman-korayem/)**
 
 ---
 

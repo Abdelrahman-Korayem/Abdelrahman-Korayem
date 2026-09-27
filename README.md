@@ -128,22 +128,34 @@ The platform includes different user roles such as **Company, User, and Admin**,
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=abdelrahman-korayem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-height="180"
-alt="GitHub Stats"
+  src="https://github-readme-stats-fast.vercel.app/api?username=abdelrahman-korayem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+  height="180"
+  alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-korayem&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-height="180"
-alt="Top Languages"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdelrahman-korayem&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+  height="180"
+  alt="Top Languages"
 />
 
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=abdelrahman-korayem&theme=tokyonight&hide_border=true&border_radius=12"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
 <br/><br/>
 
 <img
